@@ -69,7 +69,7 @@ class READMEOrganizer:
             print(f"Could not find Jobs table in {self.shortfilename}")
             return None
 
-        table_lines = lines[start + 4 : end - 1]
+        table_lines = lines[start + 4: end-1]
         return start, end, table_lines
 
     def capitalize_jobs(self, table_lines):

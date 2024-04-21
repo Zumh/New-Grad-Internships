@@ -1,4 +1,4 @@
-# 📈 Quant New Grad / Internship Positions 🎓💼
+# 📈 Quant New Grad / Internship Positions
 
 This is a collection of full-time job openings for new grads along with internships in Quant (Trader/Researcher/Developer)
 
@@ -19,11 +19,12 @@ This is a collection of full-time job openings for new grads along with internsh
 ## Jobs
 
 ---
-
-| Name              | Location     | Roles                | Employment | Industry | Date Added <br> mm/dd/yyyy |
-| ----------------- | ------------ | -------------------- | ------------ | ------------ | --------------------------- | 
-| [Quant Essential](http://www.quantessential.io) | New York, NY | 🔒 [Problem Solver - User](http://www.quantessential.io) | Fulltime | Quant | 04/21/2024 |
-
+| Name              | Location     | Roles                | Employment   | Industry     | Date Added <br> mm/dd/yyyy |
+|------------------ | ------------ | -------------------- | ------------ | ------------ | --------------------------- | 
+| [Charles Shwab](https://www.schwabjobs.com//job/-/-/33727/64031568160) | San Francisco, CA | ✅ [Quant Developer](https://www.schwabjobs.com//job/-/-/33727/64031568160) | Fulltime | 📈 Quant | 04/20/2024 |
+| [Radley James](https://www.linkedin.com/jobs/view/3901035826) | Miami, FL | ✅ [Quant Researcher - Crypto](https://www.linkedin.com/jobs/view/3901035826) | Fulltime | 📈 Quant | 04/15/2024 |
+| [Quant Essential](http://www.quantessential.io) | New York, NY | 🔒 [Problem Solver - User](http://www.quantessential.io) | Fulltime | 📈 Quant | 04/01/2024 |
+| [Five Rings](https://boards.greenhouse.io/fiveringsllc/jobs/4009039008) | New York, NY | ✅ [Quant Researcher](https://boards.greenhouse.io/fiveringsllc/jobs/4009039008) | Intern | 📈 Quant | 03/29/2024 |
 ---
 
 [⬆️ Back to Top](#jobs)

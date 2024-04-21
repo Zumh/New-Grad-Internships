@@ -3,7 +3,7 @@
 Looking for more guidance on how to prepare for interviews, you may find these resources helpful:
 
 ### SWE Resources 
-- **[Interview Guide](https://interviewguide.dev/)** by **[Nick Scialli](https://twitter.com/nas5w)**:
+- **[Interview Guide](https://interviewguide.dev/)** by Nick Scialli:
   - A comprehensive website that covers various topics such as data structures, algorithms, system design, and more
 - **[Leetcode - Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)**
   - Don't complicate the leetcode process just make sure you do the top interview questions. 
@@ -18,7 +18,7 @@ Looking for more guidance on how to prepare for interviews, you may find these r
 - **[Big book of Data Science](https://www.databricks.com/resources/ebook/the-big-book-of-data-science-use-cases-nurture)** by **[Data Bricks](https://www.databricks.com/)**:
   - An e-book with use-cases for data science in real projects along with various blogs (code samples, walkthroughs and stories) 
 
-## For International Students
+## 🌎 For International Students
 
 - **[h1bdata.info](https://www.h1bdata.info)**
   - Check if a company has sponsored for H1B candidates in the past.

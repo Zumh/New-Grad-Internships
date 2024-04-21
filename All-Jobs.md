@@ -27,12 +27,24 @@ This is a collection of full-time job openings for new grads along with internsh
 
 
 ## Jobs
----
 
+---
 | Name              | Location     | Roles                | Employment | Industry | Date Added <br> mm/dd/yyyy |
 | ----------------- | ------------ | -------------------- | ------------ | ------------ | --------------------------- | 
-| [Quant Essential](http://www.quantessential.io) | New York, NY | 🔒 [Problem Solver - User](http://www.quantessential.io) | Fulltime | 📈 Quant | 04/21/2024 |
-
+| [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/224281) | Canada | ✅ [Software Developer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/224281) | New Grad | 💻 SWE | 04/21/2024 |
+| [Etsy](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Data-Scientist--Product-Analytics_JR3379) | Brooklyn, NY | ✅ [Data Scientist](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Data-Scientist--Product-Analytics_JR3379) | New Grad | 📊 Data Sci | 04/21/2024 |
+| [DataIku](https://boards.greenhouse.io/dataiku/jobs/5155333004) | Remote (US) | ✅ [Data Scientist](https://boards.greenhouse.io/dataiku/jobs/5155333004) | New Grad | 📊 Data Sci | 04/21/2024 |
+| [Perchwell](https://jobs.ashbyhq.com/Perchwell/2b54a4d4-41e6-4377-bfcc-2a651a170b75) | Remote | ✅ [Data Analyst](https://jobs.ashbyhq.com/Perchwell/2b54a4d4-41e6-4377-bfcc-2a651a170b75) | Intern | 📊 Data Sci | 04/21/2024 |
+| [Charles Shwab](https://www.schwabjobs.com//job/-/-/33727/64031568160) | San Francisco, CA | ✅ [Quant Developer](https://www.schwabjobs.com//job/-/-/33727/64031568160) | New Grad | 📈 Quant | 04/20/2024 |
+| [Pinterest](https://www.pinterestcareers.com/en/jobs/5666542/software-engineering-co-op-intern-2024-toronto) | Canada | ✅ [Software Engineer](https://www.pinterestcareers.com/en/jobs/5666542/software-engineering-co-op-intern-2024-toronto) | Intern | 💻 SWE | 04/20/2024 |
+| [CloudFlare](https://boards.greenhouse.io/cloudflare/jobs/5702672?gh_jid=5702672) | Canada | ✅ [Researcher](https://boards.greenhouse.io/cloudflare/jobs/5702672?gh_jid=5702672) | Intern | 💻 SWE | 04/19/2024 |
+| [CloudFlare](https://boards.greenhouse.io/cloudflare/jobs/5649320) | Austin, TX | ✅ [Data Engineer](https://boards.greenhouse.io/cloudflare/jobs/5649320) | Intern | 📊 Data Sci | 04/19/2024 |
+| [RippleMatch](https://boards.greenhouse.io/ripplematchinterns/jobs/7337610002?gh_src=862e809b2us) | Houston, TX | ✅ [Data Analyst](https://boards.greenhouse.io/ripplematchinterns/jobs/7337610002?gh_src=862e809b2us) | New Grad | 📊 Data Sci | 04/18/2024 |
+| [Figma](https://boards.greenhouse.io/figma/jobs/5154693004) | Canada | ✅ [Software Engineer](https://boards.greenhouse.io/figma/jobs/5154693004) | Intern | 💻 SWE | 04/16/2024 |
+| [Square](https://jobs.smartrecruiters.com/Square/743999980671033-android-engineer-international) | San Francisco, CA (Remote) | ✅ [Android Engineer](https://jobs.smartrecruiters.com/Square/743999980671033-android-engineer-international) | Intern | 💻 SWE | 04/16/2024 |
+| [Radley James](https://www.linkedin.com/jobs/view/3901035826) | Miami, FL | ✅ [Quant Researcher - Crypto](https://www.linkedin.com/jobs/view/3901035826) | New Grad | 📈 Quant | 04/15/2024 |
+| [Quant Essential](http://www.quantessential.io) | New York, NY | 🔒 [Problem Solver - User](http://www.quantessential.io) | New Grad | 📈 Quant - (Hi guys 👋) | 04/01/2024 |
+| [Five Rings](https://boards.greenhouse.io/fiveringsllc/jobs/4009039008) | New York, NY | ✅ [Quant Researcher](https://boards.greenhouse.io/fiveringsllc/jobs/4009039008) | Intern | 📈 Quant | 03/29/2024 |
 ---
 
 [⬆️ Back to Top](#jobs)

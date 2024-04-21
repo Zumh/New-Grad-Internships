@@ -18,10 +18,13 @@ This is a collection of full-time job openings for new grads along with internsh
 ## Jobs
 
 ---
-
-| Name              | Location     | Roles                | Employment | Industry | Date Added <br> (mm/dd/yyyy) |
-| ----------------- | ------------ | -------------------- | ------------ | ------------ | --------------------------- | 
-
+| Name              | Location     | Roles                | Employment   | Industry     | Date Added <br> mm/dd/yyyy |
+|------------------ | ------------ | -------------------- | ------------ | ------------ | --------------------------- | 
+| [DataIku](https://boards.greenhouse.io/dataiku/jobs/5155333004) | Remote (US) | ✅ [Data Scientist](https://boards.greenhouse.io/dataiku/jobs/5155333004) | FullTime | 📊  Data Sci | 04/21/2024 |
+| [Etsy](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Data-Scientist--Product-Analytics_JR3379) | Brooklyn, NY | ✅ [Data Scientist](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Data-Scientist--Product-Analytics_JR3379) | FullTime | 📊 Data Sci | 04/21/2024 |
+| [Perchwell](https://jobs.ashbyhq.com/Perchwell/2b54a4d4-41e6-4377-bfcc-2a651a170b75) | Remote | ✅ [Data Analyst](https://jobs.ashbyhq.com/Perchwell/2b54a4d4-41e6-4377-bfcc-2a651a170b75) | Intern | 📊 Data Sci | 04/21/2024 |
+| [CloudFlare](https://boards.greenhouse.io/cloudflare/jobs/5649320) | Austin, TX | ✅ [Data Engineer](https://boards.greenhouse.io/cloudflare/jobs/5649320) | Intern | 📊 Data Sci | 04/19/2024 |
+| [RippleMatch](https://boards.greenhouse.io/ripplematchinterns/jobs/7337610002?gh_src=862e809b2us) | Houston, TX | ✅ [Data Analyst](https://boards.greenhouse.io/ripplematchinterns/jobs/7337610002?gh_src=862e809b2us) | FullTime | 📊 Data Sci | 04/18/2024 |
 ---
 
 [⬆️ Back to Top](#jobs)
