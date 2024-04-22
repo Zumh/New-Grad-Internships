@@ -20,6 +20,8 @@ This is a collection of full-time job openings for new grads along with internsh
 ---
 | Name              | Location     | Roles                | Employment   | Industry     | Date Added <br> mm/dd/yyyy |
 |------------------ | ------------ | -------------------- | ------------ | ------------ | --------------------------- | 
+| [Offered.ai](https://www.offered.ai/jobs/cluhv5qz7003u11rv26iepyet) | Rochester, MN | ✅ [Data Science Analyst](https://www.offered.ai/jobs/cluhv5qz7003u11rv26iepyet) | New Grad | 📊 Data Sci | 04/22/2024 |
+| [Benjamin Moore](https://careers-benjaminmoore.icims.com/jobs/1420/ml-data-engineer-intern---summer-2024/job) | Montvale, NJ | ✅ [ML Data Engineer](https://careers-benjaminmoore.icims.com/jobs/1420/ml-data-engineer-intern---summer-2024/job) | Intern | 📊 Data Sci | 04/22/2024 |
 | [DataIku](https://boards.greenhouse.io/dataiku/jobs/5155333004) | Remote (US) | ✅ [Data Scientist](https://boards.greenhouse.io/dataiku/jobs/5155333004) | FullTime | 📊  Data Sci | 04/21/2024 |
 | [Etsy](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Data-Scientist--Product-Analytics_JR3379) | Brooklyn, NY | ✅ [Data Scientist](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Data-Scientist--Product-Analytics_JR3379) | FullTime | 📊 Data Sci | 04/21/2024 |
 | [Perchwell](https://jobs.ashbyhq.com/Perchwell/2b54a4d4-41e6-4377-bfcc-2a651a170b75) | Remote | ✅ [Data Analyst](https://jobs.ashbyhq.com/Perchwell/2b54a4d4-41e6-4377-bfcc-2a651a170b75) | Intern | 📊 Data Sci | 04/21/2024 |
