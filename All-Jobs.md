@@ -31,6 +31,17 @@ This is a collection of full-time job openings for new grads along with internsh
 ---
 | Name              | Location     | Roles                | Employment | Industry | Date Added <br> mm/dd/yyyy |
 | ----------------- | ------------ | -------------------- | ------------ | ------------ | --------------------------- | 
+| [Canonical](https://boards.greenhouse.io/canonicaljobs/jobs/5923726) | Dallas, TX | ✅ [Software Engineer](https://boards.greenhouse.io/canonicaljobs/jobs/5923726) | New Grad | 💻 SWE | 04/23/2024 |
+| [Verizon](https://mycareer.verizon.com/jobs/r-1025509/software-development-engineer/) | Ashburn, VA | ✅ [Software Engineer](https://mycareer.verizon.com/jobs/r-1025509/software-development-engineer/) | New Grad | 💻 SWE | 04/23/2024 |
+| [You.com](https://www.linkedin.com/jobs/search/?currentJobId=3908547884) | US (Remote) | ✅ [IOS Developer](https://www.linkedin.com/jobs/search/?currentJobId=3908547884) | New Grad | 💻 SWE | 04/23/2024 |
+| [Norstella](https://preview-site-a2b0c9.ttcportals.com/jobs/14284516-developer-intern) | US (Remote) | ✅ [Software Developer](https://preview-site-a2b0c9.ttcportals.com/jobs/14284516-developer-intern) | Intern | 💻 SWE | 04/23/2024 |
+| [Intel](https://jobs.intel.com/en/job/-/-/599/64274460288) | Phoenix, AZ | ✅ [Software Engineer](https://jobs.intel.com/en/job/-/-/599/64274460288) | Intern | 💻 SWE | 04/23/2024 |
+| [SpyCloud](https://boards.greenhouse.io/spycloud/jobs/5962969003) | Austin, TX | ✅ [Software Engineer](https://boards.greenhouse.io/spycloud/jobs/5962969003) | Intern | 💻 SWE | 04/23/2024 |
+| [Turo](https://boards.greenhouse.io/turo/jobs/5715481) | San Francisco, CA | ✅ [Data Analyst](https://boards.greenhouse.io/turo/jobs/5715481) | New Grad | 📊 Data Sci | 04/23/2024 |
+| [Tive Inc](https://ats.rippling.com/tive-careers/jobs/8f013105-f272-4b75-adcf-2c5c3bd32b2a) | Boston, MA | ✅ [Data Scientist](https://ats.rippling.com/tive-careers/jobs/8f013105-f272-4b75-adcf-2c5c3bd32b2a) | New Grad | 📊 Data Sci | 04/23/2024 |
+| [HedgeFund](https://www.linkedin.com/jobs/search/?currentJobId=3908453655) | New York, NY | ✅ [Data Scientist](https://www.linkedin.com/jobs/search/?currentJobId=3908453655) | New Grad | 📊 Data Sci | 04/23/2024 |
+| [Selby Jennings](https://www.linkedin.com/jobs/search/?currentJobId=3907893837) | Dallas-Fort Worth | ✅ [Quant Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3907893837) | New Grad | 📈 Quant | 04/23/2024 |
+| [Fionics](https://recruiterflow.com/fionics/jobs/12) | New York, NY | ✅ [Quant Researcher](https://recruiterflow.com/fionics/jobs/12) | New Grad | 📈 Quant | 04/23/2024 |
 | [Offered.ai](https://www.offered.ai/jobs/cluhv5qz7003u11rv26iepyet) | Rochester, MN | ✅ [Data Science Analyst](https://www.offered.ai/jobs/cluhv5qz7003u11rv26iepyet) | New Grad | 📊 Data Sci | 04/22/2024 |
 | [Samuel Knight](https://www.linkedin.com/jobs/search/?currentJobId=3903687752) | New York | ✅ [Quant Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3903687752) | New Grad | 📈 Quant | 04/22/2024 |
 | [Paragon Alpha](https://www.linkedin.com/jobs/search/?currentJobId=3893974663) | New York, NY | ✅ [Quant Data Engineer](https://www.linkedin.com/jobs/search/?currentJobId=3893974663) | New Grad | 📈 Quant | 04/22/2024 |
