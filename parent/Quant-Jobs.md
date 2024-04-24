@@ -17,10 +17,13 @@ This is a collection of full-time job openings for new grads along with internsh
 
 
 ## Jobs
-
 ---
 | Name              | Location     | Roles                | Employment   | Industry     | Date Added <br> mm/dd/yyyy |
 |------------------ | ------------ | -------------------- | ------------ | ------------ | --------------------------- | 
+| [Double Line](https://paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=173785&clientkey=38CBF00EC5A30DD0F5859FC6251BFD31) | Los Angeles, CA | ✅ [Quantitative Analyst](https://paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=173785&clientkey=38CBF00EC5A30DD0F5859FC6251BFD31) | New Grad | 📈 Quant | 04/24/2024 |
+| [QuantLab](https://www.quantlab.com/careers?p=job/oxilofwi/apply&__jvst=Job+Board&__jvsd=LinkedInLimited&nl=1) | Houston, TX | ✅ [Summer Quant Intern](https://www.quantlab.com/careers?p=job/oxilofwi/apply&__jvst=Job+Board&__jvsd=LinkedInLimited&nl=1) | Intern | 📈 Quant | 04/24/2024 |
+| [Jobot](https://www.linkedin.com/jobs/search/?currentJobId=3908230784) | Houston, TX | ✅ [Quantitative Developer](https://www.linkedin.com/jobs/search/?currentJobId=3908230784) | Intern | 📈 Quant | 04/24/2024 |
+| [BlackStone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BAAM--Quantitative-Strategy--Associate_30551) | Houston, TX | ✅ [Quantitative Strategy Associate](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BAAM--Quantitative-Strategy--Associate_30551) | New Grad | 📈 Quant | 04/24/2024 |
 | [Selby Jennings](https://www.linkedin.com/jobs/search/?currentJobId=3907893837) | Dallas-Fort Worth | ✅ [Quant Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3907893837) | New Grad | 📈 Quant | 04/23/2024 |
 | [Fionics](https://recruiterflow.com/fionics/jobs/12) | New York, NY | ✅ [Quant Researcher](https://recruiterflow.com/fionics/jobs/12) | New Grad | 📈 Quant | 04/23/2024 |
 | [Samuel Knight](https://www.linkedin.com/jobs/search/?currentJobId=3903687752) | New York | ✅ [Quant Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3903687752) | New Grad | 📈 Quant | 04/22/2024 |

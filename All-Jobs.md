@@ -1,4 +1,4 @@
-# 2024-2025 New Grad / Internship Positions 🎓💼
+# 2024 New Grad + Internship Quant/SWE/DataScience Positions 🎓💼
 
 Welcome! 🎉
 This is a collection of full-time job openings for new grads along with internships in the fields of Software Engineering (SWE), Quantitative Analysis, and Data Science. 
@@ -31,6 +31,20 @@ This is a collection of full-time job openings for new grads along with internsh
 ---
 | Name              | Location     | Roles                | Employment | Industry | Date Added <br> mm/dd/yyyy |
 | ----------------- | ------------ | -------------------- | ------------ | ------------ | --------------------------- | 
+| [Double Line](https://paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=173785&clientkey=38CBF00EC5A30DD0F5859FC6251BFD31) | Los Angeles, CA | ✅ [Quantitative Analyst](https://paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=173785&clientkey=38CBF00EC5A30DD0F5859FC6251BFD31) | New Grad | 📈 Quant | 04/24/2024 |
+| [QuantLab](https://www.quantlab.com/careers?p=job/oxilofwi/apply&__jvst=Job+Board&__jvsd=LinkedInLimited&nl=1) | Houston, TX | ✅ [Summer Quant Intern](https://www.quantlab.com/careers?p=job/oxilofwi/apply&__jvst=Job+Board&__jvsd=LinkedInLimited&nl=1) | Intern | 📈 Quant | 04/24/2024 |
+| [Jobot](https://www.linkedin.com/jobs/search/?currentJobId=3908230784) | Houston, TX | ✅ [Quantitative Developer](https://www.linkedin.com/jobs/search/?currentJobId=3908230784) | Intern | 📈 Quant | 04/24/2024 |
+| [BlackStone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BAAM--Quantitative-Strategy--Associate_30551) | Houston, TX | ✅ [Quantitative Strategy Associate](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BAAM--Quantitative-Strategy--Associate_30551) | New Grad | 📈 Quant | 04/24/2024 |
+| [Gray Matter Analytics](https://www.linkedin.com/jobs/search/?currentJobId=3908765296) | Illinois | ✅ [Data Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3908765296) | Intern | 📊 Data Sci | 04/24/2024 |
+| [WSP](https://www.linkedin.com/jobs/search/?currentJobId=3908006804) | Illinois | ✅ [Data Science Intern](https://www.linkedin.com/jobs/search/?currentJobId=3908006804) | Intern | 📊 Data Sci | 04/24/2024 |
+| [Worth AI](https://www.adzuna.com/details/4660623586?v=4D990578152AB03B963C8F30A6EBB08E2A318B1E&ccd=08f9efd1b7c77f676e2c39f027237ef7&frd=81829500ea2783d1c370ba8ed61bf48a&r=16346042&utm_source=linkedin7&utm_medium=organic&chnlid=1931&title=Data%20Engineer&a=e) | Orlando, FL | ✅ [Data Engineer](https://www.adzuna.com/details/4660623586?v=4D990578152AB03B963C8F30A6EBB08E2A318B1E&ccd=08f9efd1b7c77f676e2c39f027237ef7&frd=81829500ea2783d1c370ba8ed61bf48a&r=16346042&utm_source=linkedin7&utm_medium=organic&chnlid=1931&title=Data%20Engineer&a=e) | New Grad | 📊 Data Sci | 04/24/2024 |
+| [Swish Analytics](https://boards.greenhouse.io/swishanalytics/jobs/4400516005?gh_src=14a9a67e5us) | San Fransico, CA | ✅ [Data Engineer](https://boards.greenhouse.io/swishanalytics/jobs/4400516005?gh_src=14a9a67e5us) | New Grad | 📊 Data Sci | 04/24/2024 |
+| [Talentify.io](https://www.talentify.io/job/data-analyst-remote-reston-virginia-remote-jobs-r2401586) | San Fransico, CA | ✅ [Data Analyst](https://www.talentify.io/job/data-analyst-remote-reston-virginia-remote-jobs-r2401586) | New Grad | 📊 Data Sci | 04/24/2024 |
+| [Taiki (YC24)](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern?utm_source=syn_li) | San Francisco, CA | ✅ [Software Developer](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern?utm_source=syn_li) | Intern | 💻 SWE | 04/24/2024 |
+| [Nasdaq](https://nasdaqinc.contacthr.com/136821066) | Toronto, ON | ✅ [Software Developer](https://nasdaqinc.contacthr.com/136821066) | New Grad | 💻 SWE | 04/24/2024 |
+| [S&P](https://careers.spglobal.com/jobs/300041) | Toronto, ON | ✅ [Software Developer](https://careers.spglobal.com/jobs/300041) | New Grad | 💻 SWE | 04/24/2024 |
+| [Stuut Inc](https://www.linkedin.com/jobs/search/?currentJobId=3909678892) | New York, NY | ✅ [Machine Learning Engineer](https://www.linkedin.com/jobs/search/?currentJobId=3909678892) | New Grad | 💻 SWE | 04/24/2024 |
+| [Dapper Labs](https://www.dapperlabs.com/join/position?id=3e5daf92-67d9-47b0-8280-5399549aed64) | New York, NY | ✅ [Machine Learning Engineer](https://www.dapperlabs.com/join/position?id=3e5daf92-67d9-47b0-8280-5399549aed64) | New Grad | 💻 SWE | 04/24/2024 |
 | [Canonical](https://boards.greenhouse.io/canonicaljobs/jobs/5923726) | Dallas, TX | ✅ [Software Engineer](https://boards.greenhouse.io/canonicaljobs/jobs/5923726) | New Grad | 💻 SWE | 04/23/2024 |
 | [Verizon](https://mycareer.verizon.com/jobs/r-1025509/software-development-engineer/) | Ashburn, VA | ✅ [Software Engineer](https://mycareer.verizon.com/jobs/r-1025509/software-development-engineer/) | New Grad | 💻 SWE | 04/23/2024 |
 | [You.com](https://www.linkedin.com/jobs/search/?currentJobId=3908547884) | US (Remote) | ✅ [IOS Developer](https://www.linkedin.com/jobs/search/?currentJobId=3908547884) | New Grad | 💻 SWE | 04/23/2024 |

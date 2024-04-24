@@ -20,6 +20,11 @@ This is a collection of full-time job openings for new grads along with internsh
 ---
 | Name              | Location     | Roles                | Employment   | Industry     | Date Added <br> mm/dd/yyyy |
 |------------------ | ------------ | -------------------- | ------------ | ------------ | --------------------------- | 
+| [Taiki (YC24)](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern?utm_source=syn_li) | San Francisco, CA | ✅ [Software Developer](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern?utm_source=syn_li) | Intern | 💻 SWE | 04/24/2024 |
+| [Nasdaq](https://nasdaqinc.contacthr.com/136821066) | Toronto, ON | ✅ [Software Developer](https://nasdaqinc.contacthr.com/136821066) | New Grad | 💻 SWE | 04/24/2024 |
+| [S&P](https://careers.spglobal.com/jobs/300041) | Toronto, ON | ✅ [Software Developer](https://careers.spglobal.com/jobs/300041) | New Grad | 💻 SWE | 04/24/2024 |
+| [Stuut Inc](https://www.linkedin.com/jobs/search/?currentJobId=3909678892) | New York, NY | ✅ [Machine Learning Engineer](https://www.linkedin.com/jobs/search/?currentJobId=3909678892) | New Grad | 💻 SWE | 04/24/2024 |
+| [Dapper Labs](https://www.dapperlabs.com/join/position?id=3e5daf92-67d9-47b0-8280-5399549aed64) | New York, NY | ✅ [Machine Learning Engineer](https://www.dapperlabs.com/join/position?id=3e5daf92-67d9-47b0-8280-5399549aed64) | New Grad | 💻 SWE | 04/24/2024 |
 | [Canonical](https://boards.greenhouse.io/canonicaljobs/jobs/5923726) | Dallas, TX | ✅ [Software Engineer](https://boards.greenhouse.io/canonicaljobs/jobs/5923726) | New Grad | 💻 SWE | 04/23/2024 |
 | [Verizon](https://mycareer.verizon.com/jobs/r-1025509/software-development-engineer/) | Ashburn, VA | ✅ [Software Engineer](https://mycareer.verizon.com/jobs/r-1025509/software-development-engineer/) | New Grad | 💻 SWE | 04/23/2024 |
 | [You.com](https://www.linkedin.com/jobs/search/?currentJobId=3908547884) | US (Remote) | ✅ [IOS Developer](https://www.linkedin.com/jobs/search/?currentJobId=3908547884) | New Grad | 💻 SWE | 04/23/2024 |
