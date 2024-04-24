@@ -9,7 +9,7 @@ This is a collection of full-time job openings for new grads along with internsh
 
 <b>Respects to OG</b>: This repo was inspired by [ReaVNail/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) (you're a 🐐)
 
-### Hows it differ 
+### How it differs
 - Focused on tech jobs that fall into three categories (SWE, Quant, DataScience) each w. a dedicated file
 - Internships included in this repo - we plan on building up this repo w. more features 😄 
 
