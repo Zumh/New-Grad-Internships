@@ -20,6 +20,12 @@ This is a collection of full-time job openings for new grads along with internsh
 ---
 | Name              | Location     | Roles                | Employment   | Industry     | Date Added <br> mm/dd/yyyy |
 |------------------ | ------------ | -------------------- | ------------ | ------------ | --------------------------- | 
+| [Ritual](https://boards.greenhouse.io/ritual/jobs/4068271007?gh_src=0765661e7us) | New York, NY | ✅ [Software Engineer Intern](https://boards.greenhouse.io/ritual/jobs/4068271007?gh_src=0765661e7us) | Intern | 💻 SWE | 04/25/2024 |
+| [Treillis](https://ars2.equest.com/?response_id=491604ca4a43e5807362b39ecff46724) | Roundrock, TX | ✅ [AI/ML Engineer](https://ars2.equest.com/?response_id=491604ca4a43e5807362b39ecff46724) | Intern | 💻 SWE | 04/25/2024 |
+| [EnerValue](https://enervenue.com/job/?gh_jid=5163526004&gh_src=c65077a14us) | Fremont, CA | ✅ [Intern](https://enervenue.com/job/?gh_jid=5163526004&gh_src=c65077a14us) | Intern | 💻 SWE | 04/25/2024 |
+| [Kaynes](https://www.linkedin.com/jobs/search/?currentJobId=3909160560) | US (Remote) | ✅ [IOS Engineer](https://www.linkedin.com/jobs/search/?currentJobId=3909160560) | New Grad | 💻 SWE | 04/25/2024 |
+| [Fay](https://boards.greenhouse.io/fay/jobs/4022817008?gh_src=ede202ef8us) | Santa Francisco, CA | ✅ [Software Engineer](https://boards.greenhouse.io/fay/jobs/4022817008?gh_src=ede202ef8us) | New Grad | 💻 SWE | 04/25/2024 |
+| [BenGen](https://www.ziprecruiter.com/jobs/bengen-a88a5feb/ai-engineer-86a7be6b?tsid=122001595&enc_campaign_id=e5c5742c) | Santa Barbara, CA | ✅ [AI Engineer](https://www.ziprecruiter.com/jobs/bengen-a88a5feb/ai-engineer-86a7be6b?tsid=122001595&enc_campaign_id=e5c5742c) | New Grad | 💻 SWE | 04/25/2024 |
 | [Taiki (YC24)](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern?utm_source=syn_li) | San Francisco, CA | ✅ [Software Developer](https://www.ycombinator.com/companies/taiki/jobs/kOLspG5-software-engineer-intern?utm_source=syn_li) | Intern | 💻 SWE | 04/24/2024 |
 | [Nasdaq](https://nasdaqinc.contacthr.com/136821066) | Toronto, ON | ✅ [Software Developer](https://nasdaqinc.contacthr.com/136821066) | New Grad | 💻 SWE | 04/24/2024 |
 | [S&P](https://careers.spglobal.com/jobs/300041) | Toronto, ON | ✅ [Software Developer](https://careers.spglobal.com/jobs/300041) | New Grad | 💻 SWE | 04/24/2024 |

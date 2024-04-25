@@ -20,6 +20,8 @@ This is a collection of full-time job openings for new grads along with internsh
 ---
 | Name              | Location     | Roles                | Employment   | Industry     | Date Added <br> mm/dd/yyyy |
 |------------------ | ------------ | -------------------- | ------------ | ------------ | --------------------------- | 
+| [Open Systems](https://www.linkedin.com/jobs/search/?currentJobId=3908632038) | New York, NY | ✅ [Crypto Quant Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3908632038) | New Grad | 📈 Quant | 04/25/2024 |
+| [Goliath Partners](https://www.linkedin.com/jobs/search/?currentJobId=3908627623) | New York, NY | ✅ [Quantitative Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3908627623) | New Grad | 📈 Quant | 04/25/2024 |
 | [Double Line](https://paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=173785&clientkey=38CBF00EC5A30DD0F5859FC6251BFD31) | Los Angeles, CA | ✅ [Quantitative Analyst](https://paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=173785&clientkey=38CBF00EC5A30DD0F5859FC6251BFD31) | New Grad | 📈 Quant | 04/24/2024 |
 | [QuantLab](https://www.quantlab.com/careers?p=job/oxilofwi/apply&__jvst=Job+Board&__jvsd=LinkedInLimited&nl=1) | Houston, TX | ✅ [Summer Quant Intern](https://www.quantlab.com/careers?p=job/oxilofwi/apply&__jvst=Job+Board&__jvsd=LinkedInLimited&nl=1) | Intern | 📈 Quant | 04/24/2024 |
 | [Jobot](https://www.linkedin.com/jobs/search/?currentJobId=3908230784) | Houston, TX | ✅ [Quantitative Developer](https://www.linkedin.com/jobs/search/?currentJobId=3908230784) | Intern | 📈 Quant | 04/24/2024 |
