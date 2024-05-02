@@ -1,10 +1,10 @@
 ## Disclaimer 
  Really liked the github made by: https://github.com/ReaVNaiL/New-Grad-2024
- As we have free time wanted to create an updated vers that's updated more recently and includes internships/part-time
+ As we have free time wanted to create an updated vers that focuses on Quant and includes internships/part-time
 
-## How to Contribute to 2024-2025 New Grad Full-time and Internship Positions🎓💼
+## How to Contribute to 2024-2025 Quant New Grad Full-time and Internship Positions🎓💼
 
-Thanks for contributing to the 2024-2025 New Grad Full-time and Internship Positions repository! 
+Thanks for contributing to the 2024-2025 Quant New Grad Full-time and Internship Positions repository! 
 We appreciate your help in maintaining and expanding the table of job openings for new grads.
 There is the master table in the All-Jobs.md with seperate individual tables for each type of roles.
 
@@ -24,7 +24,7 @@ If you see any mistakes or outdated information, please submit a pull request to
 <br>
 
 3. **Add the Job Opening**: Add the job opening to the table in the `All-Jobs.md`(All Jobs) file along with the associated job category file 
-(e.g  for quant roles add to `Quant-All-Jobs.md`, for data science roles `Data-Science-Jobs.md` and for SWE roles `Swe-Jobs.md`)
+(e.g  for internship roles add to `Intern-Jobs.md`, for full time roles `Newgrad-Jobs.md`)
 Please follow the existing format of the table.
 
 <details>
@@ -32,9 +32,9 @@ Please follow the existing format of the table.
 
 - If you were **ADDING** a job opening for *Walmart*:
 
-| Company Name | Location | Roles | Employment | Industry | Date Added (mm/dd/yyyy) |
+| Company Name | Location | Roles | Employment | Date Added (mm/dd/yyyy) |
 | ------------ | -------- | ----- | -----------| -------- |------------------------ |
-| [Citadel](https://www.citadel.com/careers) | - New York, NY <br> - Chicago, IL | ✅ [New Grad Quant Trader](https://www.citadel.com/careers)| Fulltime | Quant | 10/01/2023 |t
+| [Citadel](https://www.citadel.com/careers) | - New York, NY <br> - Chicago, IL | ✅ [New Grad Quant Trader](https://www.citadel.com/careers)| Fulltime | 10/01/2023 |t
 
 
 Placeholders for the table are defined as follows:
@@ -45,27 +45,25 @@ Placeholders for the table are defined as follows:
   - `Roles`: Refers to any additional roles or links to the job posting.
     - Including "✅" is optional, but if you want to maintain consistency with the rest of the repository, you can add it at the beginning of the role listing.
   - `Employment`:  Either fulltime, part-time, or internships 
-  - `Industry`: Indicates the indsutry of the job corresponding to seperate files in repo - (SWE, Quant, Data-Science)
   - `Date Added`: Specifies the date when the job opening was added to the repository. The date should be in the format `mm/dd/yyyy`.
     - This helps in keeping the most recent job openings at the top of the table.
 
 
 ```java
-| [Company Name](link-to-job-posting) | Location (s)  | [Position Name](link-to-job-posting)| Employment Type | Industry | mm/dd/yyyy |
+| [Company Name](link-to-job-posting) | Location (s)  | [Position Name](link-to-job-posting)| Employment Type | mm/dd/yyyy |
 ```
 
 <br>
 
 - If **UPDATING** a job opening, please follow the same format as above, but replace the link to the job posting with the new link, or add a new position name separated by a `<br>` tag.
 
-| Company Name | Location | Roles | Employment | Industry | Date Added <br> mm/dd/yyyy |
+| Company Name | Location | Roles | Employment | Date Added <br> mm/dd/yyyy |
 | ------------ | -------- | ----- | ----------------------------- | --------------------------- |
-| [Citadel](https://www.citadel.com/careers) | - New York, NY <br> - Chicago, IL | ✅ [New Grad Quant Trader](https://www.citadel.com/careers)| Fulltime | Quant | 10/01/2023 |t
+| [Citadel](https://www.citadel.com/careers) | - New York, NY <br> - Chicago, IL | ✅ [New Grad Quant Trader](https://www.citadel.com/careers)| Fulltime | 10/01/2023 |t
 
 ```java
-| [Company Name](link-to-job-posting) | Location (s)  | [Position Name](link-to-job-posting)| Employment Type | Industry | mm/dd/yyyy |
+| [Company Name](link-to-job-posting) | Location (s)  | [Position Name](link-to-job-posting)| Employment Type | mm/dd/yyyy |
 ```
-
 
 </details> 
 <br>
@@ -121,9 +119,9 @@ Ensure you remove it from the corresponding category file (`SWE-Jobs.md`, `Quant
 
 - This is what the *table* would look like if you were removing a job opening for *Walmart*:
 
-| Company Name | Location | Roles | Employment | Industry | Date Added (mm/dd/yyyy) |
+| Company Name | Location | Roles | Employment | Date Added (mm/dd/yyyy) |
 | ------------ | -------- | ----- | -----------| -------- |------------------------ |
-| [Citadel](https://www.citadel.com/careers) | - New York, NY <br> - Chicago, IL | 🔒 [New Grad Quant Trader](https://www.citadel.com/careers)| Fulltime | Quant | 10/01/2023 |t
+| [Citadel](https://www.citadel.com/careers) | - New York, NY <br> - Chicago, IL | 🔒 [New Grad Quant Trader](https://www.citadel.com/careers)| Fulltime | 10/01/2023 |t
 
 
 Placeholders for the table are as follows:
@@ -149,9 +147,9 @@ If the job opening has multiple roles, and you want to close one or more:
 
 - This is what the *table* would look like if you were removing a job opening for *Walmart*:
 
-| Company Name | Location | Roles | Employment | Industry | Date Added (mm/dd/yyyy) |
+| Company Name | Location | Roles | Employment | Date Added (mm/dd/yyyy) |
 | ------------ | -------- | ----- | -----------| -------- |------------------------ |
-| [Citadel](https://www.citadel.com/careers) | - New York, NY <br> - Chicago, IL |  ✅ [New Grad Software Engineer II](https://careers.walmart.com/swe2) <br> ✅ [New Grad Software Engineer III](https://careers.walmart.com/swe3)  <br> 🔒 [New Grad Quant Strat]() | Fulltime | Quant | 10/01/2023 |t
+| [Citadel](https://www.citadel.com/careers) | - New York, NY <br> - Chicago, IL |  ✅ [New Grad Software Engineer II](https://careers.walmart.com/swe2) <br> ✅ [New Grad Software Engineer III](https://careers.walmart.com/swe3)  <br> 🔒 [New Grad Quant Strat]() | Fulltime | 10/01/2023 |t
 
 
 Placeholders for the table are as follows:
@@ -160,15 +158,14 @@ Placeholders for the table are as follows:
   - `Roles`: Any additional Roles or links to the job posting.
 
 ```java
-| [Company Name](link-to-job-posting) | - Location (s)  | ✅ [Position Name](link-to-job-posting) <br> ✅ [Position Name 2] <br><br> 🔒 [Position Name 3]() <br> 🔒 [Position Name 4]()| [Employment Type] | [Industry] | mm/dd/yyyy |
+| [Company Name](link-to-job-posting) | - Location (s)  | ✅ [Position Name](link-to-job-posting) <br> ✅ [Position Name 2] <br><br> 🔒 [Position Name 3]() <br> 🔒 [Position Name 4]()| [Employment Type] | mm/dd/yyyy |
 ```
 
 ### Guidelines
 
-- Please ensure that the job listings you add are for New Grad positions in the fields of:
-    * **Software Engineering (SWE)** / **Software Development Engineer (SDE)**
-    * **Quant Roles**
-    * **Data Science Roles**
+- Please ensure that the quant job listings you add are for New Grad positions in the fields of:
+    * **Intern Roles**
+    * **Fulltime Roles**
 - Make sure that the job openings are for the year 2024 and are located in the **United States**, **Remote**, or **Canada**.
 - Provide accurate and up-to-date information for each job listing.
 - Follow the existing format of the table in the `All-Jobs.md` file.
@@ -178,5 +175,4 @@ Placeholders for the table are as follows:
 ### Thank You
 
 We appreciate your contributions to the 2024 New Grad Full-time Positions repository! Your efforts help keep this resource valuable and up-to-date for new grads seeking job opportunities.
-
 Good luck with your job search, and thank you for being a part of our community! 🌟

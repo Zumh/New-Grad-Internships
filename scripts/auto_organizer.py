@@ -117,9 +117,8 @@ class READMEOrganizer:
 if __name__ == "__main__":
     listFiles = [
         "All-Jobs.md", 
-        "parent/Swe-Jobs.md",  
-        "parent/Quant-Jobs.md",  
-        "parent/Data-Science-Jobs.md",  
+        "parent/Intern-Jobs.md",  
+        "parent/Newgrad-Jobs.md",  
     ]
     
     for file in listFiles: 
