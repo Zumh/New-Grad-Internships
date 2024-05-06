@@ -10,8 +10,10 @@ This is a collection of full-time job openings for new grads looking to get into
 
 
 ### Quant Resources 
-- **[QuantEssential](https://quantessential.io)**:
+- **[QuantQuestionsIO](https://quantquestions.io)**:
   - A platform offering targeted studying for the quant interview questions with topics including brainteasers, probability and more. Recommended for those applying to QR/QT roles at companies like Jane Street, Citadel etc - most questions here are free. 
+- **[Jane Street Question Bank](https://quantquestions.io/playlist/jane-street)**:
+  - Have a interview at Jane street coming up, or just want to see what they ask? access for the Jane Street Interview with topics including brainteasers, probability, and more. 
 - **[Probability & Markets Guide by Jane Street](https://www.janestreet.com/static/pdfs/trading-interview.pdf)**:
   - A PDF guide of general topics to know for interviews at quant trading firms like Jane Street. Great for getting a baseline introduction to the topics tested in quant interviews.
 
