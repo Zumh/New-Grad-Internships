@@ -22,6 +22,11 @@ This is a collection of full-time job openings for new grads looking to get into
 ---
 | Name              | Location     | Roles                | Employment   | Date Added <br> mm/dd/yyyy |
 |------------------ | ------------ | -------------------- | ------------ | --------------------------- | 
+| [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=5802927003) | Chicago, IL | ✅ [Junior Quantitative Researcher](https://www.oldmissioncapital.com/careers/?gh_jid=5802927003) | New Grad | 05/07/2024 |
+| [Ariel Investments](https://boards.greenhouse.io/arielinvestments/jobs/5977666003) | Chicago, IL | ✅ [Quantitative Data Analyst](https://boards.greenhouse.io/arielinvestments/jobs/5977666003) | New Grad | 05/07/2024 |
+| [Radley James](https://www.linkedin.com/jobs/search/?currentJobId=3919850767) | New York, NY | ✅ [Quantitative Developer/Researher](https://www.linkedin.com/jobs/search/?currentJobId=3919850767) | New Grad | 05/07/2024 |
+| [Lincoln Financial Group](https://jobs.lincolnfinancial.com/job/Radnor-Quantitative-Analyst%2C-Fixed-Income-PA/1164945500) | Randor, PA | ✅ [Quantitative Analyst](https://jobs.lincolnfinancial.com/job/Radnor-Quantitative-Analyst%2C-Fixed-Income-PA/1164945500) | New Grad | 05/07/2024 |
+| [Goldman Sachs](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/121756) | New York, NY | ✅ [Quantitative Engineer](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/121756) | New Grad | 05/07/2024 |
 | [Coda Search│Staffing](https://www.linkedin.com/jobs/search/?currentJobId=3918455267) | New York, NY | ✅ [Quantitative Risk Associate](https://www.linkedin.com/jobs/search/?currentJobId=3918455267) | New Grad | 05/06/2024 |
 | [Selby Jennings](https://www.linkedin.com/jobs/search/?currentJobId=3915784180) | New York, NY | ✅ [Quantitative Volatility Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3915784180) | New Grad | 05/06/2024 |
 | [Mission Staffing](https://www.missionstaffing.com/jobs/equity-quant-research-analyst/) | New York, NY | ✅ [Quant Research Analyst](https://www.missionstaffing.com/jobs/equity-quant-research-analyst/) | New Grad | 05/06/2024 |
