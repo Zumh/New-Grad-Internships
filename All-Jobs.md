@@ -27,6 +27,7 @@ This is a collection of full-time job openings in Quant for new grads along with
 - **[Probability & Markets Guide by Jane Street](https://www.janestreet.com/static/pdfs/trading-interview.pdf)**:
   - A PDF guide of general topics to know for interviews at quant trading firms like Jane Street. Great for getting a baseline introduction to the topics tested in quant interviews.
 
+Checkout the [discord](https://discord.com/invite/9pWaQkS9qb)
 
 | Specific Jobs| Emoji Meanings|
 |---------------|----------------|
