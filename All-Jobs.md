@@ -38,6 +38,11 @@ Checkout the [discord](https://discord.com/invite/9pWaQkS9qb)
 ---
 | Name              | Location     | Roles                | Employment | Date Added <br> mm/dd/yyyy |
 | ----------------- | ------------ | -------------------- | ------------ | --------------------------- | 
+| [New View Recruiting](https://www.linkedin.com/jobs/search/?currentJobId=3922563201) | New York, NY | ✅ [Quantitative Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3922563201) | New Grad | 05/10/2024 |
+| [Mondrian Alpha](https://www.linkedin.com/jobs/search/?currentJobId=3921341986) | New York, NY | ✅ [Quantitative Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3921341986) | New Grad | 05/10/2024 |
+| [Inclusively](https://app.inclusively.com/job/px9mlXGlREZJWGEA) | New York, NY | ✅ [Quantitative Analyst](https://app.inclusively.com/job/px9mlXGlREZJWGEA) | New Grad | 05/09/2024 |
+| [Standard Chartered](https://scb.taleo.net/careersection/ex/jobdetail.ftl?job=2400004299&lang=en&src=JB-BB-10081) | New York, NY | ✅ [Quantitative Analyst](https://scb.taleo.net/careersection/ex/jobdetail.ftl?job=2400004299&lang=en&src=JB-BB-10081) | New Grad | 05/09/2024 |
+| [Citi](https://jobs.citi.com/job/-/-/287/64952995696) | New York, NY | ✅ [Quantitative Analyst](https://jobs.citi.com/job/-/-/287/64952995696) | New Grad | 05/09/2024 |
 | [Swooped](https://app.swooped.co/job-postings/56c45cc6-dcc5-4333-a59a-a4dfc21a75db) | US (Remote) | ✅ [Quantitative Analyst](https://app.swooped.co/job-postings/56c45cc6-dcc5-4333-a59a-a4dfc21a75db) | New Grad | 05/08/2024 |
 | [Geneva Trading](https://www.genevatrading.com/careers-open-positions/?gh_jid=4347817007) | Chicago, IL | ✅ [Quantitative Researcher](https://www.genevatrading.com/careers-open-positions/?gh_jid=4347817007) | New Grad | 05/08/2024 |
 | [OpenBlock Labs](https://wellfound.com/jobs/2680019-quantitative-researcher) | US (Remote) | ✅ [DeFi Quantitative Researcher](https://wellfound.com/jobs/2680019-quantitative-researcher) | New Grad | 05/08/2024 |
