@@ -38,6 +38,12 @@ Checkout the [discord](https://discord.com/invite/9pWaQkS9qb)
 ---
 | Name              | Location     | Roles                | Employment | Date Added <br> mm/dd/yyyy |
 | ----------------- | ------------ | -------------------- | ------------ | --------------------------- | 
+| [Blackstone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BAAM--Quantitative-Strategy--Associate_30551) | New York, NY | ✅ [Quantitative Strategy, Associate](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BAAM--Quantitative-Strategy--Associate_30551) | New Grad | 05/11/2024 |
+| [Stabile Search](https://www.linkedin.com/jobs/search/?currentJobId=3919396032) | New York, NY | ✅ [Junior Quantitative Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3919396032) | New Grad | 05/10/2024 |
+| [Symetra](https://symetra.eightfold.ai/careers/job/446694408297) | US | ✅ [Quantitative Derivatives Analyst](https://symetra.eightfold.ai/careers/job/446694408297) | New Grad | 05/10/2024 |
+| [Surlamer Investments](https://www.linkedin.com/jobs/search/?currentJobId=3923043924) | New York, NY | ✅ [Quantitative Financial Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3923043924) | New Grad | 05/10/2024 |
+| [New View Recruiting ](https://www.adzuna.com/details/4687010732) | New York (Remote) | ✅ [Quant Researcher](https://www.adzuna.com/details/4687010732) | New Grad | 05/10/2024 |
+| [JW Michaels & Co.](https://www.linkedin.com/jobs/search/?currentJobId=3919321678) | New York, NY | ✅ [Quantitative Investment Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3919321678) | New Grad | 05/10/2024 |
 | [New View Recruiting](https://www.linkedin.com/jobs/search/?currentJobId=3922563201) | New York, NY | ✅ [Quantitative Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3922563201) | New Grad | 05/10/2024 |
 | [Mondrian Alpha](https://www.linkedin.com/jobs/search/?currentJobId=3921341986) | New York, NY | ✅ [Quantitative Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3921341986) | New Grad | 05/10/2024 |
 | [Inclusively](https://app.inclusively.com/job/px9mlXGlREZJWGEA) | New York, NY | ✅ [Quantitative Analyst](https://app.inclusively.com/job/px9mlXGlREZJWGEA) | New Grad | 05/09/2024 |
