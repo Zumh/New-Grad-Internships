@@ -38,6 +38,12 @@ Checkout the [discord](https://discord.com/invite/9pWaQkS9qb)
 ---
 | Name              | Location     | Roles                | Employment | Date Added <br> mm/dd/yyyy |
 | ----------------- | ------------ | -------------------- | ------------ | --------------------------- | 
+| [Paragon Alpha](https://www.linkedin.com/jobs/search/?currentJobId=3916569640) | New York, NY | ✅ [Credit Quantitative Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3916569640) | New Grad | 05/13/2024 |
+| [Evolve Group](https://www.linkedin.com/jobs/search/?currentJobId=3923598368) | New York, NY | ✅ [Quantitative Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3923598368) | New Grad | 05/13/2024 |
+| [RightWorks](https://app.loxo.co/job/MTQxMzctMXAyOXhyOTcyYzl0ODVsdw==?source_type=li&t=1715592899) | New York County, NY | ✅ [Quantitative Equity Research Analyst](https://app.loxo.co/job/MTQxMzctMXAyOXhyOTcyYzl0ODVsdw==?source_type=li&t=1715592899) | New Grad | 05/13/2024 |
+| [Bowden Brown](https://www.linkedin.com/jobs/search/?currentJobId=3924700868) | California, US | ✅ [Quantitative Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3924700868) | New Grad | 05/12/2024 |
+| [Caxton Associates](https://www.resume-library.com/job/view/159433906/Quantitative-Researcher--Commodities-) | New York County, NY | ✅ [Quantitative Researcher](https://www.resume-library.com/job/view/159433906/Quantitative-Researcher--Commodities-) | New Grad | 05/12/2024 |
+| [Paritas Recruitment](https://www.linkedin.com/jobs/search/?currentJobId=3923336529) | New York County, NY | ✅ [Quantitative Researcher (Futures)](https://www.linkedin.com/jobs/search/?currentJobId=3923336529) | New Grad | 05/12/2024 |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BAAM--Quantitative-Strategy--Associate_30551) | New York, NY | ✅ [Quantitative Strategy, Associate](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BAAM--Quantitative-Strategy--Associate_30551) | New Grad | 05/11/2024 |
 | [Stabile Search](https://www.linkedin.com/jobs/search/?currentJobId=3919396032) | New York, NY | ✅ [Junior Quantitative Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3919396032) | New Grad | 05/10/2024 |
 | [Symetra](https://symetra.eightfold.ai/careers/job/446694408297) | US | ✅ [Quantitative Derivatives Analyst](https://symetra.eightfold.ai/careers/job/446694408297) | New Grad | 05/10/2024 |
