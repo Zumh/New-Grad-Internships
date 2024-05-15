@@ -22,6 +22,13 @@ This is a collection of full-time job openings for new grads looking to get into
 ---
 | Name              | Location     | Roles                | Employment   | Date Added <br> mm/dd/yyyy |
 |------------------ | ------------ | -------------------- | ------------ | --------------------------- | 
+| [WayUp](https://www.wayup.com/i-Banking-j-Quant-Developer-Barclays-727416877368493/) | New York, NY | ✅ [Quant Developer](https://www.wayup.com/i-Banking-j-Quant-Developer-Barclays-727416877368493/) | New Grad | 05/15/2024 |
+| [RightWorks](https://app.loxo.co/job/MTQxMzctMXAyOXhyOTcyYzl0ODVsdw==?source_type=li&t=1715765694) | New York, NY | ✅ [Quantitative Equity Research Analyst](https://app.loxo.co/job/MTQxMzctMXAyOXhyOTcyYzl0ODVsdw==?source_type=li&t=1715765694) | New Grad | 05/15/2024 |
+| [LanceSoft, Inc](https://www.linkedin.com/jobs/search/?currentJobId=3926299146) | New York, NY | ✅ [Quantitative Analyst / Developer ](https://www.linkedin.com/jobs/search/?currentJobId=3926299146) | New Grad | 05/15/2024 |
+| [Blackrock](https://careers.blackrock.com/job/20327585/aladdin-business-analytics-quantitative-solutions-associate-new-york-ny/?=12748) | New York, NY | ✅ [Quantitative Solutions](https://careers.blackrock.com/job/20327585/aladdin-business-analytics-quantitative-solutions-associate-new-york-ny/?=12748) | New Grad | 05/14/2024 |
+| [Cannon Search](https://www.linkedin.com/jobs/search/?currentJobId=3925270659) | New York, NY | ✅ [Quantitative Analyst](https://www.linkedin.com/jobs/search/?currentJobId=3925270659) | New Grad | 05/14/2024 |
+| [Ocean Technology inc](https://www.linkedin.com/jobs/search/?currentJobId=3925206523) | Carlton, TX | ✅ [Quant Data Engineer](https://www.linkedin.com/jobs/search/?currentJobId=3925206523) | New Grad | 05/14/2024 |
+| [Galaxy](https://boards.greenhouse.io/galaxydigitalservices/jobs/5180877004) | New York, NY | ✅ [Analyst, Risk Management](https://boards.greenhouse.io/galaxydigitalservices/jobs/5180877004) | New Grad | 05/14/2024 |
 | [Paragon Alpha](https://www.linkedin.com/jobs/search/?currentJobId=3916569640) | New York, NY | ✅ [Credit Quantitative Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3916569640) | New Grad | 05/13/2024 |
 | [Evolve Group](https://www.linkedin.com/jobs/search/?currentJobId=3923598368) | New York, NY | ✅ [Quantitative Researcher](https://www.linkedin.com/jobs/search/?currentJobId=3923598368) | New Grad | 05/13/2024 |
 | [RightWorks](https://app.loxo.co/job/MTQxMzctMXAyOXhyOTcyYzl0ODVsdw==?source_type=li&t=1715592899) | New York County, NY | ✅ [Quantitative Equity Research Analyst](https://app.loxo.co/job/MTQxMzctMXAyOXhyOTcyYzl0ODVsdw==?source_type=li&t=1715592899) | New Grad | 05/13/2024 |
