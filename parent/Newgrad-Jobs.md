@@ -22,6 +22,11 @@ This is a collection of full-time job openings for new grads looking to get into
 ---
 | Name              | Location     | Roles                | Employment   | Date Added <br> mm/dd/yyyy |
 |------------------ | ------------ | -------------------- | ------------ | --------------------------- | 
+| [SkyWater Search Partners](https://www.skywatersearch.com/my-jobs/jr-quantitative-researcher-46309/) | Chicago, IL | ✅ [Jr. Quantitative Researcher](https://www.skywatersearch.com/my-jobs/jr-quantitative-researcher-46309/) | New Grad | 05/16/2024 |
+| [ICE](https://careers.ice.com/jobs/7731?mode=apply&iis=LinkedIn&iisn=Linkedin&lang=en-us) | Atlanta, GA | ✅ [Quantitative Researcher](https://careers.ice.com/jobs/7731?mode=apply&iis=LinkedIn&iisn=Linkedin&lang=en-us) | New Grad | 05/16/2024 |
+| [Akuna Capital](https://akunacapital.com/job-details?gh_jid=5967862&gh_src=dce59d2c1us) | Chicago, IL  | ✅ [Quantitative Researcher](https://akunacapital.com/job-details?gh_jid=5967862&gh_src=dce59d2c1us) | New Grad | 05/16/2024 |
+| [Corebridge Financial](https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial/job/NY-New-York/Quantitative-Analyst-Developer_JR2400853) | New York, NY | ✅ [Quant Analyst/Developer](https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial/job/NY-New-York/Quantitative-Analyst-Developer_JR2400853) | New Grad | 05/16/2024 |
+| [JPMorgan Chase & Co.](https://jpmorganchase.contacthr.com/137895620) | Jacksonville, FL | ✅ [Quant Data Analyst](https://jpmorganchase.contacthr.com/137895620) | New Grad | 05/16/2024 |
 | [WayUp](https://www.wayup.com/i-Banking-j-Quant-Developer-Barclays-727416877368493/) | New York, NY | ✅ [Quant Developer](https://www.wayup.com/i-Banking-j-Quant-Developer-Barclays-727416877368493/) | New Grad | 05/15/2024 |
 | [RightWorks](https://app.loxo.co/job/MTQxMzctMXAyOXhyOTcyYzl0ODVsdw==?source_type=li&t=1715765694) | New York, NY | ✅ [Quantitative Equity Research Analyst](https://app.loxo.co/job/MTQxMzctMXAyOXhyOTcyYzl0ODVsdw==?source_type=li&t=1715765694) | New Grad | 05/15/2024 |
 | [LanceSoft, Inc](https://www.linkedin.com/jobs/search/?currentJobId=3926299146) | New York, NY | ✅ [Quantitative Analyst / Developer ](https://www.linkedin.com/jobs/search/?currentJobId=3926299146) | New Grad | 05/15/2024 |
